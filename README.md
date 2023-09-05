@@ -1,2 +1,2 @@
-# test_cases
-Portofolio of test cases I wrote
+# Test Cases
+In this repository are some test case samples I've wrote 
